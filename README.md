@@ -85,6 +85,3 @@ python arduino_monitor.py
 * **No Serial Connection:** Check if the correct COM port is specified
 * **Emails Not Sending:** Verify Resend API key is correct and has necessary permissions
 * **No Arduino Output:** Ensure your Arduino is sending the expected alert messages over Serial
-
-## License
-MIT License
